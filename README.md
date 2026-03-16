@@ -73,7 +73,7 @@ Driven by curiosity and continuous learning, I aim to **bridge theory and practi
 
 ---
 
-# 😍Interested In
+# 🚀Interested In
 
 - Open Source Collaboration
 - High Performance APIs & Backend Infrastructure
